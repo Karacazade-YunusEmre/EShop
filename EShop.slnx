@@ -1,13 +1,13 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/EShop.Api/EShop.Api.csproj" />
-    <Project Path="src/EShop.Application/EShop.Application.csproj" />
-    <Project Path="src/EShop.Domain/EShop.Domain.csproj" />
-    <Project Path="src/EShop.Infrastructure/EShop.Infrastructure.csproj" />
+    <Project Path="src/EShop.Api/EShop.Api.csproj"/>
+    <Project Path="src/EShop.Application/EShop.Application.csproj"/>
+    <Project Path="src/EShop.Domain/EShop.Domain.csproj"/>
+    <Project Path="src/EShop.Infrastructure/EShop.Infrastructure.csproj"/>
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests/EShop.Api.IntegrationTests/EShop.Api.IntegrationTests.csproj" />
-    <Project Path="tests/EShop.Application.UnitTests/EShop.Application.UnitTests.csproj" />
-    <Project Path="tests/EShop.Domain.UnitTests/EShop.Domain.UnitTests.csproj" />
+    <Project Path="tests/EShop.Api.IntegrationTests/EShop.Api.IntegrationTests.csproj"/>
+    <Project Path="tests/EShop.Application.UnitTests/EShop.Application.UnitTests.csproj"/>
+    <Project Path="tests/EShop.Domain.UnitTests/EShop.Domain.UnitTests.csproj"/>
   </Folder>
 </Solution>
