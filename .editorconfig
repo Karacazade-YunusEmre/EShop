@@ -21,6 +21,9 @@ indent_size = 2
 
 # C# files
 [*.cs]
+# CA1716: 'Error' VB.NET'te ayrılmış sözcüktür. Bu çözüm C#-only bir uygulama/template'tir,
+# kütüphane olarak başka dillere sunulmaz. 'Error' Result deseninin standart ismidir.
+dotnet_diagnostic.CA1716.severity = none
 
 #### Core EditorConfig Options ####
 
