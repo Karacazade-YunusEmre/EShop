@@ -1,6 +1,4 @@
-﻿using EShop.Domain.Primitives;
-
-namespace EShop.Domain.Results;
+﻿namespace EShop.Domain.Results;
 
 /// <summary>
 /// Bir başarısızlığı temsil eden değer: makine-okur bir kod ve insan-okur bir açıklama.
